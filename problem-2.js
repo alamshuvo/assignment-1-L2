@@ -9,4 +9,4 @@ function removeDuplicates(numOfArray) {
     }
     return newArray;
 }
-console.log(removeDuplicates([1, 2, 3, 4, 5, 4]));
+console.log(removeDuplicates([1, 2, 2, 3, 4, 3, 5, 4, 7, 7]));
